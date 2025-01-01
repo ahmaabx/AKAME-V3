@@ -4,15 +4,15 @@
   "language": "ar",
   "approval": false,
   "premium": false,
-  "BOTNAME": "𝖆𝖐𝖆𝖒𝖎",
+  "BOTNAME": "اكامي",
   "EMAIL": "houssin.sb4@gmail.com",
-  "PREFIX": "*",
+  "PREFIX": ".",
   "OPERATOR": [
     "",
-    "100091459940475"
+    "61550232547706"
   ],
   "ADMINBOT": [
-    "100076269693499"
+    "61550232547706"
   ],
   "disabledcmds": [],
   "disabledevents": [],
